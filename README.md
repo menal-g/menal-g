@@ -60,21 +60,6 @@
 
 ---
 
-## Projects
-
-### Sales Force Automation (SFA) System
-
-A comprehensive enterprise solution designed to manage:
-
-- Customer Management
-- Sales Order Processing
-- Route Management
-- Inventory Operations
-- Payment Collections
-- Mobile Applications for Field Sales Teams
-
----
-
 ## Professional Interests
 
 - Business Analysis
